@@ -1,4 +1,4 @@
-#Revature Project 1
+Revature Project 1
 
 By: 
 Mario Sanchez, Jr.
