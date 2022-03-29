@@ -19,6 +19,7 @@ Managers can approve / deny reimbursement requests
 Associates can submit reimbursement requests
 
 Technologies:
+
 Java
 PostgreSQL for the database
 JDBC to access the database from Java
@@ -37,6 +38,7 @@ view all requests, pending and resolved
 view all employees in company
 
 Associates can:
+
 log in
 log out
 submit new reimbursement requests
@@ -46,6 +48,7 @@ Tables Created:
 DB Tables
 
 Assumptions:
+
 Associates can only add a new requests, not delete them.
 Associates can only provide reimbursement amount when submitting.
 All requests whole numbers.
@@ -54,6 +57,7 @@ Managers are the only employees that can edit reimbursement requests.
 Managers are the only employees that can view complete list of employees and requests.
 
 Improvements Going Forward:
+
 Create a properties file so that the database's login information is not visible in the Java code.
 Create more tables to better fit a more complex reimbursement management application.
 Implement more tests using Mockito and JUnit5 as well as unit test for each Angular component.
