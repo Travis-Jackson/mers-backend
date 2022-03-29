@@ -1,4 +1,3 @@
-# mers-backend
 Revature Project 1
 
 By: 
